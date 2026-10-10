@@ -1,0 +1,81 @@
+{
+  "header": {
+    "nav": {
+      "products": "产品",
+      "solutions": "解决方案",
+      "customers": "客户",
+      "partners": "合作伙伴",
+      "resources": "资源"
+    },
+    "megaMenu": {
+      "featuredApps": "特色应用",
+      "operations": "运营",
+      "clinical": { "title": "临床护理 (电子病历)", "desc": "全面的患者记录。" },
+      "diagnostics": { "title": "诊断 (实验室系统)", "desc": "实验室和影像工作流。" },
+      "inventory": { "title": "药房与库存", "desc": "管理库存和处方。" },
+      "appointments": { "title": "预约", "desc": "智能排班和远程医疗。" },
+      "links": { "overview": "概览", "enterprise": "企业版" }
+    },
+    "search": "搜索平台..."
+  },
+  "hero": {
+    "titleLine1": "统一的工作空间，",
+    "titleLine2": "专为现代医疗打造。",
+    "description": "一款强大的一体化软件套件，将临床护理、诊断和日常运营整合到一个单一的数字生态系统中。专为需要无缝工作流和",
+    "descriptionHighlight": "严格数据隐私的医疗机构而构建。",
+    "cta": "探索平台",
+    "featuredLabel": "特色应用",
+    "exploreAll": "探索所有产品",
+    "apps": {
+      "app1": { "title": "临床护理", "desc": "面向患者团队的全面电子病历 (EMR) 平台。" },
+      "app2": { "title": "诊断", "desc": "实验室和影像系统的无缝工作流。" },
+      "app3": { "title": "库存管理", "desc": "为成长型企业提供强大的药房管理。" },
+      "app4": { "title": "预约", "desc": "服务台和排班系统，提供卓越的患者支持。" },
+      "app5": { "title": "人力资源与团队", "desc": "为成长型医疗机构提供数字化员工管理。" },
+      "app6": { "title": "远程医疗", "desc": "无缝创建、安排和跟踪虚拟就诊。" }
+    }
+  },
+  "suite": {
+    "clinicalLabel": "临床套件",
+    "clinicalTitle": "Medbookie 临床",
+    "clinicalHeadline1": "轻松提供",
+    "clinicalHeadline2": "互联护理",
+    "clinicalDesc": "临床护理 3.0：以患者为中心的全栈电子病历。",
+    "clinicalCta": "探索电子病历",
+    "opsLabel": "医疗运营",
+    "opsTitle": "Medbookie 运营",
+    "opsHeadline1": "Medbookie Ops—",
+    "opsHeadline2": "您的数字员工",
+    "opsDesc": "自动化库存、管理计费、员工排班并即时解决工作流。",
+    "opsCta": "探索运营",
+    "workspaceLabel": "一体化套件",
+    "workspaceTitle": "Medbookie 工作空间",
+    "workspaceHeadline": "医疗保健的操作系统",
+    "workspaceDesc": "在 Medbookie 上运行您的整个临床实践——我们统一的平台提供了满足您所有诊断、运营和患者需求的基本应用程序。",
+    "workspaceCta": "免费体验",
+    "testimonialQuote": "\"Medbookie 赋予我们自主控制权；我们可以为整个医院网络的复杂工作流进行定制。\"",
+    "testimonialAuthor": "Sarah Jenkins 博士",
+    "testimonialRole": "首席医疗官, Apex Health"
+  },
+  "trust": {
+    "label": "信任我们的品牌",
+    "cta": "客户案例"
+  },
+  "enterprise": {
+    "title": "面向企业的 Medbookie",
+    "desc": "探索我们为大规模转型构建的生态系统。了解 Medbookie 的平台功能、专业服务和基础设施。",
+    "quote": "\"业务增长很容易追踪，因为我们有 Medbookie，它帮助我们同步数据。\"",
+    "author": "Peter Ejiofor",
+    "role": "首席执行官, Ethnos"
+  },
+  "footer": {
+    "ctaTitle": "准备好成就卓越了吗？",
+    "ctaDesc": "让我们开始吧。",
+    "ctaButton": "访问您的应用",
+    "col1": "应用与扩展",
+    "col2": "学习",
+    "col3": "社区",
+    "col4": "公司",
+    "copyright": "Medbookie Corporation Pvt. Ltd. 保留所有权利。"
+  }
+}

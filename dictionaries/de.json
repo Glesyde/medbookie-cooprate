@@ -1,0 +1,81 @@
+{
+  "header": {
+    "nav": {
+      "products": "Produkte",
+      "solutions": "Lösungen",
+      "customers": "Kunden",
+      "partners": "Partner",
+      "resources": "Ressourcen"
+    },
+    "megaMenu": {
+      "featuredApps": "Ausgewählte Apps",
+      "operations": "Betrieb",
+      "clinical": { "title": "Klinische Versorgung (EMR)", "desc": "Umfassende Patientenakten." },
+      "diagnostics": { "title": "Diagnostik (LIS)", "desc": "Labor- und Bildgebungsworkflows." },
+      "inventory": { "title": "Apotheke & Inventar", "desc": "Bestände und Rezepte verwalten." },
+      "appointments": { "title": "Termine", "desc": "Intelligente Planung und Telemedizin." },
+      "links": { "overview": "Übersicht", "enterprise": "Unternehmen" }
+    },
+    "search": "Plattform durchsuchen..."
+  },
+  "hero": {
+    "titleLine1": "Der vereinheitlichte Arbeitsplatz,",
+    "titleLine2": "für die moderne Gesundheitsversorgung.",
+    "description": "Eine leistungsstarke All-in-One-Software-Suite, die klinische Versorgung, Diagnostik und den täglichen Betrieb in einem einzigen digitalen Ökosystem vereint. Entwickelt für Gesundheitsorganisationen, die nahtlose Arbeitsabläufe und ",
+    "descriptionHighlight": "kompromisslosen Datenschutz fordern.",
+    "cta": "PLATTFORM ENTDECKEN",
+    "featuredLabel": "AUSGEWÄHLTE APPS",
+    "exploreAll": "ALLE PRODUKTE ENTDECKEN",
+    "apps": {
+      "app1": { "title": "Klinische Versorgung", "desc": "Umfassende EMR-Plattform für patientennahe Teams." },
+      "app2": { "title": "Diagnostik", "desc": "Nahtlose LIS- und Bildgebungsworkflows für Labore." },
+      "app3": { "title": "Inventar", "desc": "Leistungsstarkes Apothekenmanagement für wachsende Unternehmen." },
+      "app4": { "title": "Termine", "desc": "Helpdesk und Terminplanung für großartigen Patientensupport." },
+      "app5": { "title": "HR & Personal", "desc": "Digitales Personalmanagement für wachsende Organisationen." },
+      "app6": { "title": "Telemedizin", "desc": "Erstellen, planen und verfolgen Sie virtuelle Besuche nahtlos." }
+    }
+  },
+  "suite": {
+    "clinicalLabel": "KLINISCHE SUITE",
+    "clinicalTitle": "Medbookie Klinisch",
+    "clinicalHeadline1": "Vernetzte Versorgung",
+    "clinicalHeadline2": "ganz einfach",
+    "clinicalDesc": "Klinische Versorgung 3.0: Patientenbereit. Full-Stack EMR.",
+    "clinicalCta": "EMR ENTDECKEN",
+    "opsLabel": "GESUNDHEITSBETRIEB",
+    "opsTitle": "Medbookie Ops",
+    "opsHeadline1": "Medbookie Ops—",
+    "opsHeadline2": "Ihre digitale Belegschaft",
+    "opsDesc": "Automatisieren Sie Inventar, verwalten Sie Abrechnungen, planen Sie Personal und lösen Sie Workflows sofort.",
+    "opsCta": "BETRIEB ENTDECKEN",
+    "workspaceLabel": "ALL-IN-ONE SUITE",
+    "workspaceTitle": "Medbookie Workspace",
+    "workspaceHeadline": "Das Betriebssystem für das Gesundheitswesen",
+    "workspaceDesc": "Führen Sie Ihre gesamte klinische Praxis auf Medbookie aus—unserer einheitlichen Plattform mit wichtigen Anwendungen für all Ihre diagnostischen, operativen und patientenbezogenen Anforderungen.",
+    "workspaceCta": "MEDBOOKIE WORKSPACE TESTEN",
+    "testimonialQuote": "\"Medbookie gibt uns autonome Kontrolle; wir können es für die komplexen Arbeitsabläufe unseres gesamten Krankenhausnetzwerks anpassen.\"",
+    "testimonialAuthor": "Dr. Sarah Jenkins",
+    "testimonialRole": "Chefärztin, Apex Health"
+  },
+  "trust": {
+    "label": "MARKEN, DIE UNS VERTRAUEN",
+    "cta": "KUNDENGESCHICHTEN"
+  },
+  "enterprise": {
+    "title": "Medbookie für Unternehmen",
+    "desc": "Entdecken Sie das Ökosystem, das wir für groß angelegte Transformationen aufgebaut haben. Erkunden Sie die Plattformfunktionen, professionellen Dienstleistungen und die Infrastruktur von Medbookie.",
+    "quote": "\"Das Unternehmenswachstum war leicht zu verfolgen, da wir Medbookie haben, das uns bei der Synchronisierung der Daten hilft.\"",
+    "author": "Peter Ejiofor",
+    "role": "CEO, Ethnos"
+  },
+  "footer": {
+    "ctaTitle": "Bereit für Ihre beste Arbeit?",
+    "ctaDesc": "Lassen Sie uns anfangen.",
+    "ctaButton": "AUF IHRE APPS ZUGREIFEN",
+    "col1": "Apps und Erweiterungen",
+    "col2": "Lernen",
+    "col3": "Community",
+    "col4": "Unternehmen",
+    "copyright": "Medbookie Corporation Pvt. Ltd. Alle Rechte vorbehalten."
+  }
+}

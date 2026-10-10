@@ -1,0 +1,81 @@
+{
+  "header": {
+    "nav": {
+      "products": "Productos",
+      "solutions": "Soluciones",
+      "customers": "Clientes",
+      "partners": "Socios",
+      "resources": "Recursos"
+    },
+    "megaMenu": {
+      "featuredApps": "Aplicaciones Destacadas",
+      "operations": "Operaciones",
+      "clinical": { "title": "Atención Clínica (HCE)", "desc": "Registros completos de pacientes." },
+      "diagnostics": { "title": "Diagnósticos (SIL)", "desc": "Flujos de trabajo de laboratorio e imágenes." },
+      "inventory": { "title": "Farmacia e Inventario", "desc": "Gestionar stock y recetas." },
+      "appointments": { "title": "Citas", "desc": "Programación inteligente y telesalud." },
+      "links": { "overview": "Resumen", "enterprise": "Empresa" }
+    },
+    "search": "Buscar en la plataforma..."
+  },
+  "hero": {
+    "titleLine1": "El espacio de trabajo unificado,",
+    "titleLine2": "para la atención médica moderna.",
+    "description": "Una potente suite de software todo en uno que reúne la atención clínica, los diagnósticos y las operaciones diarias en un único ecosistema digital. Diseñado para organizaciones de salud que exigen flujos de trabajo fluidos y ",
+    "descriptionHighlight": "privacidad de datos sin concesiones.",
+    "cta": "EXPLORAR LA PLATAFORMA",
+    "featuredLabel": "APLICACIONES DESTACADAS",
+    "exploreAll": "EXPLORAR TODOS LOS PRODUCTOS",
+    "apps": {
+      "app1": { "title": "Atención Clínica", "desc": "Plataforma HCE integral para equipos que atienden a pacientes." },
+      "app2": { "title": "Diagnósticos", "desc": "Flujos de trabajo fluidos de SIL e imágenes para laboratorios." },
+      "app3": { "title": "Inventario", "desc": "Potente gestión de farmacia para empresas en crecimiento." },
+      "app4": { "title": "Citas", "desc": "Soporte técnico y programación para brindar un excelente apoyo al paciente." },
+      "app5": { "title": "RRHH y Personal", "desc": "Gestión digital del personal para organizaciones en crecimiento." },
+      "app6": { "title": "Telesalud", "desc": "Cree, programe y realice un seguimiento de las visitas virtuales sin problemas." }
+    }
+  },
+  "suite": {
+    "clinicalLabel": "SUITE CLÍNICA",
+    "clinicalTitle": "Medbookie Clínica",
+    "clinicalHeadline1": "Brinde atención conectada",
+    "clinicalHeadline2": "con facilidad",
+    "clinicalDesc": "Atención Clínica 3.0: Listo para el paciente. HCE completo.",
+    "clinicalCta": "EXPLORAR HCE",
+    "opsLabel": "OPERACIONES DE SALUD",
+    "opsTitle": "Medbookie Ops",
+    "opsHeadline1": "Medbookie Ops—",
+    "opsHeadline2": "su fuerza laboral digital",
+    "opsDesc": "Automatice el inventario, administre la facturación, programe al personal y resuelva flujos de trabajo al instante.",
+    "opsCta": "EXPLORAR OPERACIONES",
+    "workspaceLabel": "SUITE TODO EN UNO",
+    "workspaceTitle": "Espacio de trabajo Medbookie",
+    "workspaceHeadline": "El sistema operativo para la salud",
+    "workspaceDesc": "Ejecute toda su práctica clínica en Medbookie—nuestra plataforma unificada con aplicaciones esenciales para todas sus necesidades de diagnóstico, operativas y de pacientes.",
+    "workspaceCta": "PRUEBE EL ESPACIO MEDBOOKIE",
+    "testimonialQuote": "\"Medbookie nos da control autónomo; podemos personalizarlo para los complejos flujos de trabajo de toda nuestra red hospitalaria.\"",
+    "testimonialAuthor": "Dra. Sarah Jenkins",
+    "testimonialRole": "Directora Médica, Apex Health"
+  },
+  "trust": {
+    "label": "MARCAS QUE CONFÍAN EN NOSOTROS",
+    "cta": "HISTORIAS DE CLIENTES"
+  },
+  "enterprise": {
+    "title": "Medbookie para Empresas",
+    "desc": "Descubra el ecosistema que hemos creado para la transformación a gran escala. Explore las capacidades de la plataforma de Medbookie, los servicios profesionales y la infraestructura.",
+    "quote": "\"El crecimiento del negocio fue fácil de rastrear porque tenemos Medbookie, que nos ayuda a sincronizar los datos.\"",
+    "author": "Peter Ejiofor",
+    "role": "CEO, Ethnos"
+  },
+  "footer": {
+    "ctaTitle": "¿Listo para hacer su mejor trabajo?",
+    "ctaDesc": "Comencemos.",
+    "ctaButton": "ACCEDER A SUS APLICACIONES",
+    "col1": "Aplicaciones y Extensiones",
+    "col2": "Aprender",
+    "col3": "Comunidad",
+    "col4": "Empresa",
+    "copyright": "Medbookie Corporation Pvt. Ltd. Todos los derechos reservados."
+  }
+}

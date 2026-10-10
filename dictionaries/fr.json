@@ -1,0 +1,81 @@
+{
+  "header": {
+    "nav": {
+      "products": "Produits",
+      "solutions": "Solutions",
+      "customers": "Clients",
+      "partners": "Partenaires",
+      "resources": "Ressources"
+    },
+    "megaMenu": {
+      "featuredApps": "Applications Phares",
+      "operations": "Opérations",
+      "clinical": { "title": "Soins Cliniques (DME)", "desc": "Dossiers patients complets." },
+      "diagnostics": { "title": "Diagnostics (SIL)", "desc": "Flux de travail des laboratoires et imagerie." },
+      "inventory": { "title": "Pharmacie et Inventaire", "desc": "Gérer les stocks et les ordonnances." },
+      "appointments": { "title": "Rendez-vous", "desc": "Planification intelligente et télésanté." },
+      "links": { "overview": "Aperçu", "enterprise": "Entreprise" }
+    },
+    "search": "Rechercher sur la plateforme..."
+  },
+  "hero": {
+    "titleLine1": "L'espace de travail unifié,",
+    "titleLine2": "pour la santé moderne.",
+    "description": "Une suite logicielle puissante et tout-en-un qui réunit les soins cliniques, les diagnostics et les opérations quotidiennes dans un écosystème numérique unique. Conçu pour les organisations de santé qui exigent des flux de travail fluides et ",
+    "descriptionHighlight": "une confidentialité des données sans compromis.",
+    "cta": "EXPLORER LA PLATEFORME",
+    "featuredLabel": "APPLICATIONS PHARES",
+    "exploreAll": "EXPLORER TOUS LES PRODUITS",
+    "apps": {
+      "app1": { "title": "Soins Cliniques", "desc": "Plateforme DME complète pour les équipes en contact avec les patients." },
+      "app2": { "title": "Diagnostics", "desc": "Flux de travail SIL et d'imagerie fluides pour les laboratoires." },
+      "app3": { "title": "Inventaire", "desc": "Gestion pharmaceutique puissante pour les entreprises en croissance." },
+      "app4": { "title": "Rendez-vous", "desc": "Assistance et planification pour offrir un excellent support aux patients." },
+      "app5": { "title": "RH & Personnel", "desc": "Gestion numérique du personnel pour les organisations en croissance." },
+      "app6": { "title": "Télésanté", "desc": "Créez, planifiez et suivez les visites virtuelles en toute transparence." }
+    }
+  },
+  "suite": {
+    "clinicalLabel": "SUITE CLINIQUE",
+    "clinicalTitle": "Medbookie Clinique",
+    "clinicalHeadline1": "Offrez des soins connectés",
+    "clinicalHeadline2": "en toute simplicité",
+    "clinicalDesc": "Soins Cliniques 3.0 : Prêt pour le patient. DME complet.",
+    "clinicalCta": "EXPLORER LE DME",
+    "opsLabel": "OPÉRATIONS DE SANTÉ",
+    "opsTitle": "Medbookie Ops",
+    "opsHeadline1": "Medbookie Ops—",
+    "opsHeadline2": "votre personnel numérique",
+    "opsDesc": "Automatisez les stocks, gérez la facturation, planifiez le personnel et résolvez les flux de travail instantanément.",
+    "opsCta": "EXPLORER LES OPÉRATIONS",
+    "workspaceLabel": "SUITE TOUT-EN-UN",
+    "workspaceTitle": "Espace de travail Medbookie",
+    "workspaceHeadline": "Le système d'exploitation pour la santé",
+    "workspaceDesc": "Gérez l'ensemble de votre pratique clinique sur Medbookie—notre plateforme unifiée avec des applications essentielles pour tous vos besoins diagnostiques, opérationnels et liés aux patients.",
+    "workspaceCta": "ESSAYER L'ESPACE MEDBOOKIE",
+    "testimonialQuote": "\"Medbookie nous donne un contrôle autonome ; nous pouvons le personnaliser pour les flux de travail complexes de l'ensemble de notre réseau hospitalier.\"",
+    "testimonialAuthor": "Dr. Sarah Jenkins",
+    "testimonialRole": "Médecin en Chef, Apex Health"
+  },
+  "trust": {
+    "label": "MARQUES QUI NOUS FONT CONFIANCE",
+    "cta": "HISTOIRES DE CLIENTS"
+  },
+  "enterprise": {
+    "title": "Medbookie pour l'Entreprise",
+    "desc": "Découvrez l'écosystème que nous avons conçu pour une transformation à grande échelle. Explorez les capacités de la plateforme Medbookie, les services professionnels et l'infrastructure.",
+    "quote": "\"La croissance de l'entreprise a été facile à suivre car nous avons Medbookie, qui nous aide à synchroniser les données.\"",
+    "author": "Peter Ejiofor",
+    "role": "PDG, Ethnos"
+  },
+  "footer": {
+    "ctaTitle": "Prêt à donner le meilleur de vous-même ?",
+    "ctaDesc": "Commençons.",
+    "ctaButton": "ACCÉDER À VOS APPLICATIONS",
+    "col1": "Applications et Extensions",
+    "col2": "Apprendre",
+    "col3": "Communauté",
+    "col4": "Entreprise",
+    "copyright": "Medbookie Corporation Pvt. Ltd. Tous droits réservés."
+  }
+}

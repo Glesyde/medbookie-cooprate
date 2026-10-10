@@ -1,0 +1,81 @@
+{
+  "header": {
+    "nav": {
+      "products": "Products",
+      "solutions": "Solutions",
+      "customers": "Customers",
+      "partners": "Partners",
+      "resources": "Resources"
+    },
+    "megaMenu": {
+      "featuredApps": "Featured Apps",
+      "operations": "Operations",
+      "clinical": { "title": "Clinical Care (EMR)", "desc": "Comprehensive patient records." },
+      "diagnostics": { "title": "Diagnostics (LIS)", "desc": "Lab and imaging workflows." },
+      "inventory": { "title": "Pharmacy & Inventory", "desc": "Manage stock and prescriptions." },
+      "appointments": { "title": "Appointments", "desc": "Smart scheduling and telehealth." },
+      "links": { "overview": "Overview", "enterprise": "Enterprise" }
+    },
+    "search": "Search platform..."
+  },
+  "hero": {
+    "titleLine1": "The unified workspace,",
+    "titleLine2": "for modern healthcare.",
+    "description": "A powerful, all-in-one software suite that brings clinical care, diagnostics, and everyday operations into a single digital ecosystem. Built for health organizations that demand seamless workflows and ",
+    "descriptionHighlight": "uncompromising data privacy.",
+    "cta": "EXPLORE THE PLATFORM",
+    "featuredLabel": "FEATURED APPS",
+    "exploreAll": "EXPLORE ALL PRODUCTS",
+    "apps": {
+      "app1": { "title": "Clinical Care", "desc": "Comprehensive EMR platform for patient-facing teams." },
+      "app2": { "title": "Diagnostics", "desc": "Seamless LIS and imaging workflows for labs." },
+      "app3": { "title": "Inventory", "desc": "Powerful pharmacy management for growing businesses." },
+      "app4": { "title": "Appointments", "desc": "Helpdesk and scheduling to deliver great patient support." },
+      "app5": { "title": "HR & Workforce", "desc": "Digital staff management for growing organizations." },
+      "app6": { "title": "Telehealth", "desc": "Create, schedule, and track virtual visits seamlessly." }
+    }
+  },
+  "suite": {
+    "clinicalLabel": "CLINICAL SUITE",
+    "clinicalTitle": "Medbookie Clinical",
+    "clinicalHeadline1": "Deliver connected care",
+    "clinicalHeadline2": "with ease",
+    "clinicalDesc": "Clinical Care 3.0: Patient-ready. Full-stack EMR.",
+    "clinicalCta": "EXPLORE EMR",
+    "opsLabel": "HEALTH OPS",
+    "opsTitle": "Medbookie Ops",
+    "opsHeadline1": "Medbookie Ops—",
+    "opsHeadline2": "your digital workforce",
+    "opsDesc": "Automate inventory, manage billing, schedule staff, and resolve workflows instantly.",
+    "opsCta": "EXPLORE OPERATIONS",
+    "workspaceLabel": "ALL-IN-ONE SUITE",
+    "workspaceTitle": "Medbookie Workspace",
+    "workspaceHeadline": "The operating system for healthcare",
+    "workspaceDesc": "Run your entire clinical practice on Medbookie—our unified platform with essential applications for all your diagnostic, operational, and patient needs.",
+    "workspaceCta": "TRY MEDBOOKIE WORKSPACE",
+    "testimonialQuote": "\"Medbookie gives us autonomous control; we can customize it for our entire hospital network's complex workflows.\"",
+    "testimonialAuthor": "Dr. Sarah Jenkins",
+    "testimonialRole": "Chief Medical Officer, Apex Health"
+  },
+  "trust": {
+    "label": "BRANDS THAT TRUST US",
+    "cta": "CUSTOMER STORIES"
+  },
+  "enterprise": {
+    "title": "Medbookie for Enterprise",
+    "desc": "Discover the ecosystem we've built for large-scale transformation. Explore Medbookie's platform capabilities, professional services, and infrastructure.",
+    "quote": "\"Business growth was easy to track because we have Medbookie, which helps us sync the data.\"",
+    "author": "Peter Ejiofor",
+    "role": "CEO, Ethnos"
+  },
+  "footer": {
+    "ctaTitle": "Ready to do your best work?",
+    "ctaDesc": "Let's get you started.",
+    "ctaButton": "ACCESS YOUR APPS",
+    "col1": "Apps and Extensions",
+    "col2": "Learn",
+    "col3": "Community",
+    "col4": "Company",
+    "copyright": "Medbookie Corporation Pvt. Ltd. All Rights Reserved."
+  }
+}

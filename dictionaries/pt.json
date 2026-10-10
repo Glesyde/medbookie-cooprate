@@ -1,0 +1,81 @@
+{
+  "header": {
+    "nav": {
+      "products": "Produtos",
+      "solutions": "Soluções",
+      "customers": "Clientes",
+      "partners": "Parceiros",
+      "resources": "Recursos"
+    },
+    "megaMenu": {
+      "featuredApps": "Aplicativos em Destaque",
+      "operations": "Operações",
+      "clinical": { "title": "Atendimento Clínico (PEP)", "desc": "Prontuários eletrônicos abrangentes." },
+      "diagnostics": { "title": "Diagnósticos (SIL)", "desc": "Fluxos de trabalho de laboratório e imagem." },
+      "inventory": { "title": "Farmácia e Estoque", "desc": "Gerenciar estoque e prescrições." },
+      "appointments": { "title": "Consultas", "desc": "Agendamento inteligente e telessaúde." },
+      "links": { "overview": "Visão Geral", "enterprise": "Corporativo" }
+    },
+    "search": "Pesquisar na plataforma..."
+  },
+  "hero": {
+    "titleLine1": "O espaço de trabalho unificado,",
+    "titleLine2": "para a saúde moderna.",
+    "description": "Um pacote de software poderoso e completo que reúne atendimento clínico, diagnósticos e operações diárias em um único ecossistema digital. Desenvolvido para organizações de saúde que exigem fluxos de trabalho contínuos e ",
+    "descriptionHighlight": "privacidade de dados intransigente.",
+    "cta": "EXPLORE A PLATAFORMA",
+    "featuredLabel": "APLICATIVOS EM DESTAQUE",
+    "exploreAll": "EXPLORE TODOS OS PRODUTOS",
+    "apps": {
+      "app1": { "title": "Atendimento Clínico", "desc": "Plataforma PEP abrangente para equipes que lidam com pacientes." },
+      "app2": { "title": "Diagnósticos", "desc": "Fluxos de trabalho integrados de SIL e imagem para laboratórios." },
+      "app3": { "title": "Estoque", "desc": "Gerenciamento poderoso de farmácia para empresas em crescimento." },
+      "app4": { "title": "Consultas", "desc": "Atendimento e agendamento para fornecer excelente suporte ao paciente." },
+      "app5": { "title": "RH e Equipe", "desc": "Gerenciamento digital de equipe para organizações em crescimento." },
+      "app6": { "title": "Telessaúde", "desc": "Crie, agende e acompanhe consultas virtuais sem problemas." }
+    }
+  },
+  "suite": {
+    "clinicalLabel": "SUÍTE CLÍNICA",
+    "clinicalTitle": "Medbookie Clinical",
+    "clinicalHeadline1": "Ofereça atendimento conectado",
+    "clinicalHeadline2": "com facilidade",
+    "clinicalDesc": "Atendimento Clínico 3.0: Pronto para o paciente. PEP completo.",
+    "clinicalCta": "EXPLORE O PEP",
+    "opsLabel": "OPERAÇÕES DE SAÚDE",
+    "opsTitle": "Medbookie Ops",
+    "opsHeadline1": "Medbookie Ops—",
+    "opsHeadline2": "sua força de trabalho digital",
+    "opsDesc": "Automatize o estoque, gerencie o faturamento, agende a equipe e resolva fluxos de trabalho instantaneamente.",
+    "opsCta": "EXPLORE AS OPERAÇÕES",
+    "workspaceLabel": "SUÍTE TUDO-EM-UM",
+    "workspaceTitle": "Medbookie Workspace",
+    "workspaceHeadline": "O sistema operacional para a saúde",
+    "workspaceDesc": "Execute toda a sua prática clínica no Medbookie—nossa plataforma unificada com aplicativos essenciais para todas as suas necessidades de diagnóstico, operacionais e de pacientes.",
+    "workspaceCta": "EXPERIMENTE O MEDBOOKIE WORKSPACE",
+    "testimonialQuote": "\"O Medbookie nos dá controle autônomo; podemos personalizá-lo para os fluxos de trabalho complexos de toda a nossa rede hospitalar.\"",
+    "testimonialAuthor": "Dra. Sarah Jenkins",
+    "testimonialRole": "Diretora Médica, Apex Health"
+  },
+  "trust": {
+    "label": "MARCAS QUE CONFIAM EM NÓS",
+    "cta": "HISTÓRIAS DE CLIENTES"
+  },
+  "enterprise": {
+    "title": "Medbookie para Empresas",
+    "desc": "Descubra o ecossistema que construímos para transformação em larga escala. Explore os recursos da plataforma, serviços profissionais e infraestrutura do Medbookie.",
+    "quote": "\"O crescimento dos negócios foi fácil de acompanhar porque temos o Medbookie, que nos ajuda a sincronizar os dados.\"",
+    "author": "Peter Ejiofor",
+    "role": "CEO, Ethnos"
+  },
+  "footer": {
+    "ctaTitle": "Pronto para fazer o seu melhor trabalho?",
+    "ctaDesc": "Vamos começar.",
+    "ctaButton": "ACESSE SEUS APLICATIVOS",
+    "col1": "Aplicativos e Extensões",
+    "col2": "Aprender",
+    "col3": "Comunidade",
+    "col4": "Empresa",
+    "copyright": "Medbookie Corporation Pvt. Ltd. Todos os direitos reservados."
+  }
+}
