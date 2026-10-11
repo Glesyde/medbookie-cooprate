@@ -48,7 +48,7 @@ export function HeroSection({ dict }) {
           </div>
 
           <div className="mt-12 text-center">
-            <a href="#all-products" className="inline-flex items-center gap-1 text-[13px] font-medium text-[#0284c7] hover:text-blue-800 transition-colors uppercase tracking-widest">
+            <a href="#all-products" className="inline-flex items-center gap-1 text-[13px] font-medium text-primary font-bold hover:text-blue-800 transition-colors uppercase tracking-widest">
               {dict.exploreAll} <ChevronRight size={16} />
             </a>
           </div>
