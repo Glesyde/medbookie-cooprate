@@ -68,7 +68,7 @@ export default function CorporateFooter({ dict, lang }) {
           <span className="text-orange-500 font-bold">d</span>
           <span className="text-white font-normal">bookie</span>
         </a>
-        <p className="text-gray-400 text-sm font-light">
+        <p className="text-gray-400 text-sm font-light px-4 py-2 rounded text-center">
           © {new Date().getFullYear()}, {dict?.copyright}
         </p>
       </div>

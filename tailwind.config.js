@@ -16,6 +16,10 @@ module.exports = {
         // Optional: define others if you need them specifically
         nunito: ['var(--font-nunito)', 'sans-serif'],
       },
+
+      colors: {
+        primary: "#F68100",
+      }
     },
   },
   plugins: [],
