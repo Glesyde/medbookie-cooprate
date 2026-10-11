@@ -7,17 +7,53 @@
       "partners": "Partners",
       "resources": "Resources"
     },
+
     "megaMenu": {
-      "featuredApps": "Featured Apps",
-      "operations": "Operations",
-      "clinical": { "title": "Clinical Care (EMR)", "desc": "Comprehensive patient records." },
-      "diagnostics": { "title": "Diagnostics (LIS)", "desc": "Lab and imaging workflows." },
-      "inventory": { "title": "Pharmacy & Inventory", "desc": "Manage stock and prescriptions." },
-      "appointments": { "title": "Appointments", "desc": "Smart scheduling and telehealth." },
-      "links": { "overview": "Overview", "enterprise": "Enterprise" }
+        "featuredApps": "Featured Apps",
+        "operations": "Operations",
+        "clinical": { "title": "Clinical Care (EMR)", "desc": "Comprehensive patient records." },
+        "diagnostics": { "title": "Diagnostics (LIS)", "desc": "Lab and imaging workflows." },
+        "inventory": { "title": "Pharmacy & Inventory", "desc": "Manage stock and prescriptions." },
+        "appointments": { "title": "Appointments", "desc": "Smart scheduling and telehealth." },
+        "links": { "overview": "Overview", "enterprise": "Enterprise" },
+
+        
+        "digitalHealth": { "title": "Digital Health", "desc": "Innovative solutions for modern healthcare." },
+
+        "ElectronicHealthRecords": { "title": "Electronic Health Records", "desc": "Comprehensive patient records." },
+
+        "femaleHealth": { "title": "Female Health", "desc": "Empowering women's health and wellness." },
+
+        "Healthcare": { "title": "Healthcare", "desc": "Comprehensive solutions for healthcare providers." },
+
+        "Healthservices": { "title": "Health Services", "desc": "Streamlined healthcare service management." },
+
+        "hcit": { "title": "HCIT", "desc": "Healthcare IT solutions for modern organizations." },
+
+
+
+        "healthinsurance": { "title": "Health Insurance", "desc": "Streamlined claims and policy management." },
+
+        "mentalhealth": { "title": "Mental Health", "desc": "Support and resources for mental well-being." },
+        "mobilehealth": { "title": "Mobile Health", "desc": "Accessible healthcare solutions on the go." },
+        "personalhealth": { "title": "Personal Health", "desc": "Tools for managing your individual health journey." },
+
+        "stories": { "title": "Customer Stories", "desc": "Discover how Medbookie transforms healthcare operations." },
+
+        "community": { "title": "Community", "desc": "Join our community of healthcare professionals and enthusiasts." },
+
+        "programs": { "title": "Affiliate Programs", "desc": "Explore our initiatives and programs for healthcare improvement." },
+
+        "training": { "title": "Training & Certification", "desc": "Comprehensive training and support for healthcare professionals." }
+
+
     },
+    
     "search": "Search platform..."
+
   },
+
+
   "hero": {
     "titleLine1": "The unified workspace,",
     "titleLine2": "for modern healthcare.",
