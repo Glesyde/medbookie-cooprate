@@ -62,13 +62,13 @@ export function HeroSection({ dict }) {
 export function SuiteSection({ dict }) {
   return (
     // REMOVED: mt-32 from the section below so it touches the hero section
-    <section className="relative w-full !bg-black" id="suite">
+    <section className="border-2 border-[red] relative w-full !bg-black" id="suite">
       
       {/* 
         The -top-32 here will now perfectly pull this card UP into the bottom 
         padding of the Hero section, creating the overlap effect without a gap.
       */}
-      <div className="lg:absolute -top-32 left-0 right-0 z-10 w-[95%] max-w-7xl mx-auto bg-transparent pt-12 pb-8 px-6 md:px-12 lg:px-16 rounded-2xl shadow-2xl">
+      <div className="lg:absolute -top-32 left-0 right-0 z-10 w-[95%] max-w-7xl mx-auto bg-transparent pt-12 pb-8 rounded-2xl shadow-2xl border-2 border-[red] ">
         <div className="mx-auto grid grid-cols-1 md:grid-cols-2 gap-6">
           <div className="bg-primary rounded-lg p-10 flex flex-col items-center text-center relative overflow-hidden border border-blue-50/50">
             <div className="lg:absolute top-0 left-0 bg-black text-white text-[10px] font-bold uppercase tracking-wider px-3 py-1.5 rounded-br-lg">{dict.clinicalLabel}</div>

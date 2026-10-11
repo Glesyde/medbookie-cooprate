@@ -1,5 +1,7 @@
 {
-  "header": {
+
+    
+    "header": {
     "nav": {
       "products": "Products",
       "solutions": "Solutions",
@@ -7,50 +9,72 @@
       "partners": "Partners",
       "resources": "Resources"
     },
-
     "megaMenu": {
-        "featuredApps": "Featured Apps",
-        "operations": "Operations",
-        "clinical": { "title": "Clinical Care (EMR)", "desc": "Comprehensive patient records." },
-        "diagnostics": { "title": "Diagnostics (LIS)", "desc": "Lab and imaging workflows." },
-        "inventory": { "title": "Pharmacy & Inventory", "desc": "Manage stock and prescriptions." },
-        "appointments": { "title": "Appointments", "desc": "Smart scheduling and telehealth." },
-        "links": { "overview": "Overview", "enterprise": "Enterprise" },
+      "featuredApps": "Featured Apps",
+      "operations": "Operations",
+      "specialties": "Specialties",
+      "focus": "Focus Areas",
+      "success": "Success & Community",
+      "network": "Partner Network",
+      "developer": "Developers & Tools",
+      "learn": "Learning & Insights",
 
-        
-        "digitalHealth": { "title": "Digital Health", "desc": "Innovative solutions for modern healthcare." },
+      "productCategories": {
+        "core": "Core & Tech",
+        "lab": "Lab & Pharmacy",
+        "specialty": "Specialties & Finance"
+      },
 
-        "ElectronicHealthRecords": { "title": "Electronic Health Records", "desc": "Comprehensive patient records." },
+      "products": {
+        "hmis": { "title": "Medbookie HMIS", "desc": "Elevate healthcare efficiency and staff experience." },
+        "emr": { "title": "Medbookie EMR", "desc": "Digital patient records for smarter clinical decisions." },
+        "clinic": { "title": "Medbookie Clinic", "desc": "Centralize info for modern clinic management." },
+        "cloud": { "title": "Medbookie on Cloud", "desc": "Trusted by 50+ hospitals for scalable operations." },
+        "mobility": { "title": "Mobility Solution", "desc": "Healthcare access anytime through mobile innovation." },
+        "lis": { "title": "Medbookie LIS", "desc": "Accurate laboratory management for faster diagnostics." },
+        "ris": { "title": "Medbookie RIS", "desc": "Advanced imaging management for better patient care." },
+        "pharmacy": { "title": "Pharmacy Management", "desc": "Empower your team with a user-friendly interface." },
+        "environmental": { "title": "Environmental LIS", "desc": "Accurate data for environmental decision-making." },
+        "homecare": { "title": "Medbookie Health@Home", "desc": "Connected homecare solutions for better outcomes." },
+        "dental": { "title": "Dental Management", "desc": "Enhance workflows and dental patient care." },
+        "ophthalmology": { "title": "Ophthalmology Software", "desc": "Advanced tools for your ophthalmology practice." },
+        "art": { "title": "ART Management", "desc": "Efficient workflows for fertility and ART care." },
+        "finance": { "title": "Financial Solutions", "desc": "Seamless RCM, billing, and revenue tracking." }
+      },
 
-        "femaleHealth": { "title": "Female Health", "desc": "Empowering women's health and wellness." },
+      "clinical": { "title": "Clinical Care (EMR)", "desc": "Comprehensive patient records." },
+      "diagnostics": { "title": "Diagnostics (LIS)", "desc": "Lab and imaging workflows." },
+      "inventory": { "title": "Pharmacy & Inventory", "desc": "Manage stock and prescriptions." },
+      "appointments": { "title": "Appointments", "desc": "Smart scheduling and telehealth." },
+      "links": { "overview": "Overview", "enterprise": "Enterprise" },
 
-        "Healthcare": { "title": "Healthcare", "desc": "Comprehensive solutions for healthcare providers." },
+      "digitalHealth": { "title": "Digital Health", "desc": "Innovative solutions for modern healthcare." },
+      "ElectronicHealthRecords": { "title": "Electronic Health Records", "desc": "Comprehensive patient records." },
+      "femaleHealth": { "title": "Female Health", "desc": "Empowering women's health and wellness." },
+      "Healthcare": { "title": "Healthcare", "desc": "Comprehensive solutions for healthcare providers." },
+      "Healthservices": { "title": "Health Services", "desc": "Streamlined healthcare service management." },
+      "hcit": { "title": "HCIT", "desc": "Healthcare IT solutions for modern organizations." },
 
-        "Healthservices": { "title": "Health Services", "desc": "Streamlined healthcare service management." },
+      "healthinsurance": { "title": "Health Insurance", "desc": "Streamlined claims and policy management." },
+      "mentalhealth": { "title": "Mental Health", "desc": "Support and resources for mental well-being." },
+      "mobilehealth": { "title": "Mobile Health", "desc": "Accessible healthcare solutions on the go." },
+      "personalhealth": { "title": "Personal Health", "desc": "Tools for managing your individual health journey." },
 
-        "hcit": { "title": "HCIT", "desc": "Healthcare IT solutions for modern organizations." },
+      "stories": { "title": "Customer Stories", "desc": "Discover how Medbookie transforms healthcare operations." },
+      "community": { "title": "Community", "desc": "Join our community of healthcare professionals and enthusiasts." },
+      "programs": { "title": "Affiliate Programs", "desc": "Explore our initiatives and programs for healthcare improvement." },
+      "training": { "title": "Training & Certification", "desc": "Comprehensive training and support for healthcare professionals." },
 
+      "becomeapartner": { "title": "Become a Partner", "desc": "Scale your business by helping our users worldwide get the best out of Medbookie." },
+      "partnersaffilate": { "title": "Work With a Partner", "desc": "Find and work with a Medbookie Partner to get expert help in every step of your journey." },
 
-
-        "healthinsurance": { "title": "Health Insurance", "desc": "Streamlined claims and policy management." },
-
-        "mentalhealth": { "title": "Mental Health", "desc": "Support and resources for mental well-being." },
-        "mobilehealth": { "title": "Mobile Health", "desc": "Accessible healthcare solutions on the go." },
-        "personalhealth": { "title": "Personal Health", "desc": "Tools for managing your individual health journey." },
-
-        "stories": { "title": "Customer Stories", "desc": "Discover how Medbookie transforms healthcare operations." },
-
-        "community": { "title": "Community", "desc": "Join our community of healthcare professionals and enthusiasts." },
-
-        "programs": { "title": "Affiliate Programs", "desc": "Explore our initiatives and programs for healthcare improvement." },
-
-        "training": { "title": "Training & Certification", "desc": "Comprehensive training and support for healthcare professionals." }
-
-
+      "api": { "title": "API Documentation", "desc": "Integrate Medbookie with your existing systems." },
+      "brochure": { "title": "Brochures & Guides", "desc": "Downloadable resources and product literature." },
+      "medicalCalculators": { "title": "Medical Calculators", "desc": "Clinical tools for accurate health assessments." },
+      "knowledgeBase": { "title": "Knowledge Base", "desc": "Find answers, tutorials, and support articles." },
+      "blog": { "title": "Company Blog", "desc": "Read the latest news, updates, and healthcare insights." }
     },
-    
     "search": "Search platform..."
-
   },
 
 
